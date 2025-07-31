@@ -1,7 +1,6 @@
-# Simulate user input for testing (no input() calls)
 num1 = 10
 num2 = 5
-operation = '/'
+operation = '+'
 
 # Perform the calculation
 if operation == "+":
